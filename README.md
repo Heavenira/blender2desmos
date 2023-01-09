@@ -4,6 +4,8 @@ Export your 3D Blender projects to Desmos! Select your objects, and choose betwe
 - **Animation:** Export location, rotation, and scale keyframes, either local/global space, degrees/radians.
 - **Format:** Export LaTeX equations or tabulate with Desmos' API using JavaScript and `Calc.getState();`.
 
+See [example graph](https://www.desmos.com/calculator/u6xbg2i0xa "example graph") here.
+
 # Installation
 Here is how to install the blender2desmos. It is super simple!
 1. Open Blender.
@@ -21,4 +23,4 @@ I provide a full interface of your export, using a complete UI of the options to
 
 3D Desmos is one of the coolest things you can do as a grapher. With this addon, you will be able to whip up 3D objects at speeds of which you've never seen before.
 
-(Big thanks to OpenAI's GPT for essentially teaching me how to build Blender interfaces from the ground up. It really is the future, and I'm so glad to have tackled this project with its help.)
+Big thanks to OpenAI's GPT for essentially teaching me how to build Blender interfaces from the ground up. It really is the future, and I'm so glad to have tackled this project with its help.

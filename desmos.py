@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-2.0-or-later
+# MIT-License
 bl_info = {
     "name": "Desmos Expressions",
     "author": "Ezra Oppenheimer (Heavenira)",
